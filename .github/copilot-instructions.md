@@ -41,3 +41,4 @@ Solo tiene "Estado actual" y "Próximos pasos". Al terminar una fase o tarea
 actualiza únicamente esas dos secciones. No copies decisiones ni contenido de
 la spec. Mantenlo en unas 50 líneas.
 
+
